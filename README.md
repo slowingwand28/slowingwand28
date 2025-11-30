@@ -14,6 +14,9 @@ I'm Xander Humphreys, a student at Brigham Young University-Idaho interested in 
 - Proficient in: Python, C#, SQL, Godot
 - Skills: Programming, Problem Solving
 
+## Projects
+- Here is an example of a project I have worked on: a dinosaur themed rts game built in Godot. https://github.com/slowingwand28/Dinosaur-RTS
+
 ## Let's Connect!
 
 - Here is my LinkedIn profile: www.linkedin.com/in/xanderh
