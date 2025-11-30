@@ -16,6 +16,6 @@ I'm Xander Humphreys, a student at Brigham Young University-Idaho interested in 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](www.linkedin.com/in/xanderh) profile
+- Here is my LinkedIn profile: www.linkedin.com/in/xanderh
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
